@@ -17,6 +17,5 @@
     		    }
     		?>
     	</ul>
-        <img src="mas.gif">
     </body>
 </html>
